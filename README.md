@@ -18,3 +18,14 @@ Definindo operações como:
 110 - A (complemento de 2)
 
 111 -	A shift left por B bits
+
+
+Flags:
+
+1000 - Zero
+
+0100 - Negativo
+
+0010 - Carry Out
+
+0001 - Overflow
